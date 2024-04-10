@@ -1,0 +1,4 @@
+https://cdnjs.com/libraries/font-awesome/4.7.0   necessary cdn for icons to be displayed.
+https://fontawesome.com/v4/icon/github         for icons
+https://getbootstrap.com/docs/4.6/components/alerts/   bootstrap documentation
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" />       necessary cdn for bootstrap components to be displayed.
